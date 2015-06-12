@@ -1,8 +1,0 @@
-C:\works\VB\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
-C:\works\VB\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
-C:\works\VB\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.xml
-C:\works\VB\ProjectEuler\ProjectEuler\obj\x86\Debug\src.Resources.resources
-C:\works\VB\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.vbproj.GenerateResource.Cache
-C:\works\VB\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.exe
-C:\works\VB\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.xml
-C:\works\VB\ProjectEuler\ProjectEuler\obj\x86\Debug\ProjectEuler.pdb
