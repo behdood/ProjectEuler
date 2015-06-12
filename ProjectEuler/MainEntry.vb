@@ -12,7 +12,7 @@
             problem = problemFactory(problem_no)
 
             result = problem.solve()
-            Console.Write("Problem " + problem_no + " : " + result + vbNewLine + console_msg)
+            Console.Write("Solution = " + result + vbNewLine + console_msg)
             problem_no = Console.ReadLine()
         End While
 
