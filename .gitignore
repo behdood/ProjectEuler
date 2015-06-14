@@ -1,1 +1,5 @@
 # VisualStudio
+ProjectEuler.sln
+ProjectEuler.suo
+ProjectEuler/bin/*
+ProjectEuler/obj/*
