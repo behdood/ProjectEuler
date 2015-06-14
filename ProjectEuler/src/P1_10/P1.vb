@@ -2,7 +2,7 @@
     Implements BaseProblem
 
     Public Function solve() As String Implements BaseProblem.solve
-        Return
+        Return ""
     End Function
 
     Public Function description() As String Implements BaseProblem.description

@@ -105,7 +105,26 @@
     </Compile>
     <Compile Include="src\BaseProblem.vb" />
     <Compile Include="src\NullProblem.vb" />
-    <Compile Include="src\P1.vb" />
+    <Compile Include="src\P11_20\P11.vb" />
+    <Compile Include="src\P11_20\P12.vb" />
+    <Compile Include="src\P11_20\P13.vb" />
+    <Compile Include="src\P11_20\P14.vb" />
+    <Compile Include="src\P11_20\P15.vb" />
+    <Compile Include="src\P11_20\P16.vb" />
+    <Compile Include="src\P11_20\P17.vb" />
+    <Compile Include="src\P11_20\P18.vb" />
+    <Compile Include="src\P11_20\P19.vb" />
+    <Compile Include="src\P11_20\P20.vb" />
+    <Compile Include="src\P1_10\P1.vb" />
+    <Compile Include="src\P1_10\P10.vb" />
+    <Compile Include="src\P1_10\P2.vb" />
+    <Compile Include="src\P1_10\P3.vb" />
+    <Compile Include="src\P1_10\P4.vb" />
+    <Compile Include="src\P1_10\P5.vb" />
+    <Compile Include="src\P1_10\P6.vb" />
+    <Compile Include="src\P1_10\P7.vb" />
+    <Compile Include="src\P1_10\P8.vb" />
+    <Compile Include="src\P1_10\P9.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
